@@ -1,1 +1,10 @@
-
+[Desktop Entry]
+Name=sample zcr repo
+GenericName=sample zcr repo
+Comment=Sample ZCR Repo
+Exec=sample-zcr-repo
+Icon=/usr/lib/zcr/Sample-zcr-repo/sample-zcr-repo-logo.png
+Terminal=false
+Type=Application
+Categories=System;
+Keywords=zenit;zcr;sample-zcr-repo;
