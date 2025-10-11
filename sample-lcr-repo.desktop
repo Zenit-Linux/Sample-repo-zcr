@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=sample zcr repo
-GenericName=sample zcr repo
-Comment=Sample ZCR Repo
-Exec=sample-zcr-repo
-Icon=/usr/lib/zcr/Sample-zcr-repo/sample-zcr-repo-logo.png
+Name=sample lcr repo
+GenericName=sample lcr repo
+Comment=Sample LCR Repo
+Exec=sample-lcr-repo
+Icon=/usr/lib/lcr/Sample-lcr-repo/sample-lcr-repo-logo.png
 Terminal=false
 Type=Application
 Categories=System;
-Keywords=zenit;zcr;sample-zcr-repo;
+Keywords=legendary;legendaryos;lcr;sample-lcr-repo;
