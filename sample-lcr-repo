@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 /usr/lib/lcr/Sample-lcr-repo/sample-program.py
